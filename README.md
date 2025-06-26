@@ -16,17 +16,17 @@ Currently, I enjoy working on projects involving **forecasting, BI dashboarding,
 
 ### 🔧 Recent Projects
 
-**AIRA – GenAI Document Assistant**  
-Engineered a Gen AI-based RAG system using FAISS & GPT-3.5 for fast document retrieval and query answering.
+**PowerBI-PizzaAnalysis**  
+Interactive dashboard to analyze pizza sales trends, order frequency, and customer behavior.
 
-**Walmart Sales Forecasting**  
-Built time-series forecasting models (Random Forest, Exponential Smoothing) on Azure ML to optimize retail sales planning.
+**Tesla-Sales-Visualizing-the-Journey-of-Electric-Excellence**  
+Exploratory data analysis and visualization of Tesla’s sales performance and market growth.
 
-**Sleep Sphere Analytics**  
-Visualized health data with Google BigQuery & Looker Studio to support data-driven decisions in healthcare monitoring.
+**MedicalChatbot-using-Llama2**  
+Conversational AI chatbot for medical Q&A powered by LLaMA2 and LangChain.
 
-**Trade Network Analysis**  
-Identified 10+ trade communities using Louvain & Girvan-Newman algorithms, improving understanding of global trade flow patterns.
+**GenAI_AIRA**  
+Gen AI document assistant with RAG pipeline using FAISS and GPT-3.5 for intelligent document Q&A.
 
 ---
 
